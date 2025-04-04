@@ -1,3 +1,3 @@
 # tabnews
 
-Aprendendo programação: FipiliDechamps - Curso.dev
+Aprendendo programação: FipileDechamps - Curso.dev
